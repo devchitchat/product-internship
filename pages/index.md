@@ -1,14 +1,14 @@
 ---
-title: Product Internship
+title: Product Manager Internship
 ---
 
-# Product Internship
+# Product Manager Internship
 
-This is an Applied Economics & Product Internship play book.
+This is an Applied Economics & Product Manager Internship play book.
 
 # Agreement
 
-Title: Applied Economics & Product Intern
+Title: Applied Economics & Product Manager Intern
 Duration: 8-10 weeks (flexible based on academic schedule)
 Weekly Commitment: ~20-25 hours (adjusted as needed to support academic success)
 

@@ -2,11 +2,11 @@
 title: The Offer Letter
 ---
 
-# Subject: Summer Internship Offer - Applied Economics & Product Intern
+# Subject: Summer Internship Offer - Applied Economics & Product Manager Intern
 
 Hi [candidate],
 
-I'd like to formally offer you a summer position as an Applied Economics & Product Intern, starting May 11th, 2026.
+I'd like to formally offer you a summer position as an Applied Economics & Product Manager Intern, starting May 11th, 2026.
 
 This role is designed to give you hands-on experience operating in a structured, professional environment while applying concepts from your economics coursework - especially microeconomics - to real-world problems.
 
