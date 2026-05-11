@@ -1,6 +1,7 @@
 {
   "name": "product-internship",
-  "module": "index.ts",
+  "description": "A Product Manager Internship Playbook",
+  "module": "index.js",
   "type": "module",
   "private": true,
   "scripts": {
