@@ -6,6 +6,8 @@ title: Product Manager Internship
 
 This is an Applied Economics & Product Manager Internship play book.
 
+[Git Setup — how to submit feedback and update documents](git-setup)
+
 # Agreement
 
 Title: Applied Economics & Product Manager Intern
